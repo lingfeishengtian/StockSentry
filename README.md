@@ -3,7 +3,7 @@ StockSentry is a simple iOS/android app that helps you manage stocks and evaluat
 Done as part of TAMUHack 2023, devpost: https://devpost.com/software/stocksentry.
 
 # Inspiration
-Interested in quantitative finance, our team was inspired to create this financial risk analysis app because we saw a need for a user-friendly and efficient tool for both individuals and businesses. Not only does StockSentry assess the investments of the user according to their own risk tolerance, but also with a range of other factors like inflation, unemployment, interest rate, and productivity, as well as through sentiment analysis of the present-day media.
+Interested in quantitative finance, our team was inspired to create this financial risk analysis app because we saw a need for a user-friendly and efficient tool for both individuals and businesses. Not only does StockSentry assess the investments of the user according to their own risk tolerance, but also with a range of other factors like inflation, unemployment, interest rate, and productivity, as well as through sentiment analysis of the present-day media. 
 
 # What it does
 It allows anyone to trade and manage stocks while also being aware of the risks that come with it. After first learning about its user and their portfolio, StockSentry is able to use the state of the economy today to approximate the risk factor associated with the current investment. From there it compares the risk factor of the economy and the current portfolio of the user and assesses it against their desired risk tolerance. Depending on how the user's risk tolerance compares to the currently predicted risk, recommendations are made.
